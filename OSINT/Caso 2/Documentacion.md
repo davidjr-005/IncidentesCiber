@@ -74,10 +74,10 @@ Buscamos en Google "Khyber Pakistan attack January 19 2023" para confirmar si el
 ### Paso 5: Conclusión verificación
 
 **Desinformación confirmada**:
-- ✓ Ataque Khyber 19/01/2023 = REAL
-- ✓ TTP responsable = REAL
-- ✓ Muertos = REAL
-- ✗ Foto = FALSA
+- Ataque Khyber 19/01/2023 = REAL
+- TTP responsable = REAL
+- Muertos = REAL
+- Foto = FALSA
 
 El periodista usó una foto incorrecta.
 

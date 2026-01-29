@@ -122,13 +122,13 @@ Validación cruzada:
 
 ## Dificultades encontradas y cómo se superaron
 
-| Dificultad | Impacto | Solución aplicada | Resultado |
-|------------|---------|-------------------|-----------|
-| Google Images/Lens sin resultados | Crítico (bloqueo inicial) | Cambio inmediato a TinEye | Fecha 2009 + Virginia Zoo |
-| Paginación profunda ZooBorns (pág 3) | Medio | Ctrl+F sistemático "2009" | Noticia exacta encontrada |
-| Múltiples jirafas "Willow" en zoos | Alto | Cruce fecha+padres+zoo específico | Identificación única |
-| Fuentes traslado contradictorias | Medio | Priorizar noticias oficiales zoo vs foros | Fecha 12/10/2010 confirmada |
-| Wayback Machine snapshots rotos | Bajo | Búsqueda directa archivos Google | Fuentes alternativas válidas |
+| Dificultad | Solución aplicada | Resultado |
+|------------|-------------------|-----------|
+| Google Images/Lens sin resultados | Cambio inmediato a TinEye | Fecha 2009 + Virginia Zoo |
+| Paginación profunda ZooBorns (pág 3) | Ctrl+F sistemático "2009" | Noticia exacta encontrada |
+| Múltiples jirafas "Willow" en zoos | Cruce fecha+padres+zoo específico | Identificación única |
+| Fuentes traslado contradictorias | Priorizar noticias oficiales zoo vs foros | Fecha 12/10/2010 confirmada |
+| Wayback Machine snapshots rotos | Búsqueda directa archivos Google | Fuentes alternativas válidas |
 
 ## Conclusión
 Se localizó y verificó completamente la identidad de la jirafa: **Willow**, hembra reticulada nacida Virginia Zoo 21/10/2009, actualmente en Disney's Animal Kingdom desde 12/10/2010 como parte de programa SSP de conservación. Todos los datos validados mediante fuentes múltiples (ZooBorns, ZooChat, noticias, fotos). Metodología: TinEye → Dorks fechados → foros especializados → confirmación fotos/noticias.
