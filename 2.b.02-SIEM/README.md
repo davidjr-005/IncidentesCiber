@@ -12,11 +12,11 @@ Este repositorio se entrega con **tres documentos** principales. Este `README.md
 - Contenido: arquitectura (contenedores y red), despliegue ELK 7.16.3, construcción del agente nginx-filebeat, configuración de Filebeat y validación de ingesta en Kibana, troubleshooting (TLS/versiones, Filebeat detenido, etc.).
 
 2) **Documento del caso de uso**  
-- Archivo: ![doc](docs/Casos_De_Usos.md)
+- Archivo: [Casos_De_Usos](docs/Casos_De_Usos.md)
 - Contenido: descripción del caso de uso “Fuerza bruta SSH”, objetivos de detección, activos, escenarios, fuentes de logs, reglas/indicadores esperados y criterios de verificación.
 
 3) **Implementación del caso de uso (detección con Snort + Hydra)**  
-- Archivo: ![doc](docs/Implementacion.md)  
+- Archivo: [Implementación](docs/Implementacion.md)  
 - Contenido: instalación de Snort 2.9.20 (desde fuente), configuración (`snort.conf`, `local.rules`), validación con ICMP y SSH, ejecución del ataque con scripts del profesorado (`crear_claves`, `crear_usuarios`, `lanzar_hydra`), problemas encontrados (regla dependiente de `flow:established`, registro de alertas) y solución final (ajuste de regla + ejecución de Snort con salida a fichero para ingesta con Filebeat).
 
 ## Resumen técnico
@@ -38,4 +38,4 @@ Este repositorio se entrega con **tres documentos** principales. Este `README.md
 4. Kibana visualiza los eventos mediante un patrón `filebeat-*` en Discover.
 
 ## Evidencias
-Las capturas/imagenes utilizadas en los documentos se encuentran en ![Imagenes](docs/img/)
+Las capturas/imagenes utilizadas en los documentos se encuentran en [Imagenes](docs/img/)
