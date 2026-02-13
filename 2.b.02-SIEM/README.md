@@ -8,7 +8,7 @@
 Este repositorio se entrega con **tres documentos** principales. Este `README.md` actúa como **índice** y resumen.
 
 1) **Documentación de instalación y configuración**  
-- Archivo: ![doc](docs/Instalación_Configuración.md)
+- Archivo: [Instalación_Configuración](docs/Instalación_Configuración.md)
 - Contenido: arquitectura (contenedores y red), despliegue ELK 7.16.3, construcción del agente nginx-filebeat, configuración de Filebeat y validación de ingesta en Kibana, troubleshooting (TLS/versiones, Filebeat detenido, etc.).
 
 2) **Documento del caso de uso**  
